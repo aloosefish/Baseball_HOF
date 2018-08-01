@@ -1,0 +1,30 @@
+---
+title: "How Much Better are Major League Baseball Hall of Famers?"
+author: "Ian Davis"
+date: "July 31, 2018"
+output: html_document
+---
+### How much better are Hall of Fame baseball players than non-Hall of Falme baseball players?
+
+##### Data needed
+
+To answer this question we (ideally) need the individual player statistics for every player that has ever played in the Major Leagues. We will also need a list of players in the Hall of Fame. 
+These data, and much more, can fortunately be found in a single collection of data: the [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/).
+
+
+##### Analysis Method and Questions
+
+One way to perform this analysis is to normal player statistics for each season, using z-score
+
+Players compared to each other within a given season
+and compare careers
+compare regular season and a post-season
+
+See if the Hall of Fame is an accurate representative of the players with the best statistics.
+  If it is not, note individual players circumstance (ie Pete Rose, Mark McGuire, Barry Bonds, etc)
+  
+#### Conclusions
+ 
+What we learned
+What difficulties were encountered
+
